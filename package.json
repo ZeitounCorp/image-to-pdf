@@ -1,7 +1,7 @@
 {
   "name": "image-to-pdf",
-  "version": "1.0.0",
-  "description": "Creates a PDF file out of images",
+  "version": "1.0.1",
+  "description": "Creates a PDF file out of an image",
   "keywords": [
     "pdf",
     "image"
